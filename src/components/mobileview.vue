@@ -31,7 +31,7 @@
     <div class=" border-b  border-t border-gray-700 py-2  ">
       <div class="mt-4 mb-4 flex justify-center items-center">
         <span class="text-white text-sm leading-7 mr-7 whitespace-nowrap">Available for hire :</span>
-            <input type="checkbox" class="peer sr-only opacity-0" id="toggle" checked/>
+            <input type="checkbox" class="peer sr-only opacity-0" id="toggle" unchecked/>
             <label for="toggle" class=" relative flex h-5 w-11 cursor-pointer items-center rounded-full bg-red-400 px-0.5 outline-gray-400 transition-colors before:h-5 before:w-5 before:rounded-full before:bg-white before:shadow before:transition-transform before:duration-300 peer-checked:bg-green-500 peer-checked:before:translate-x-full peer-focus-visible:outline peer-focus-visible:outline-offset-2 peer-focus-visible:outline-gray-400 peer-checked:peer-focus-visible:outline-green-500">
                 <span class="sr-only">Enable</span>
             </label>
@@ -216,11 +216,20 @@
     <br />
     <h1 class="text-black text-2xl lg:text-3xl font-semi-bold leading-10">Education</h1> <br>
     <div class="grid place-items-center">
-        <img src="./img/logos/jkuat.png" alt="ReactJS Logo" class="h-[80px] w-[80px] rounded-50px">
-        <br />
-        <h5 class="text-xs  font-semibold ">Jomo Kenyatta University Of Agriculture And Technology</h5>
-              <p>Diploma in Infrmation Technology</p>
-    </div>
+          <img src="../img/logos/jkuat.png" alt="ReactJS Logo" class="h-[80px] w-[80px] rounded-50px">
+          <h5 class="text-xs  font-semibold text-center">Jomo Kenyatta University Of Agriculture And Technology</h5>
+                <p>Diploma in Infrmation Technology</p>
+      </div><br />
+      <div class="grid place-items-center">
+          <img src="../img/logos/azureAdministrator.png" alt="ReactJS Logo" class="h-[80px] w-[80px] rounded-50px">
+                <p>Azure Administrator Associate</p>
+      </div>
+      <br />
+      <div class="grid place-items-center">
+          <img src="../img/logos/azureAI.png" alt="ReactJS Logo" class="h-[80px] w-[80px] rounded-50px">
+          <br />
+                <p>Azure AI Associate</p>
+      </div>
               
   </div>
   

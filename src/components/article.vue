@@ -1,9 +1,26 @@
 <template>
     <div>
       <div class="flex justify-center items-center flex-col">
+        <img class="image-center" src="../img/logos/b3it_logo.jpeg" alt="smhi"  style="width: 50px; height: 50px;"> 
+        <p  class="project-role text-center">Fullstack Developer </p> 
+        <p  class="project-stack text-center text-xs"> May 2024 to present</p>
+        <br />
+        <p class="leading-relaxed text-sm ">
+          I am a specialized in creating and managing websites using the Sitevision platform, which includes 
+          <span :class="{ 'hidden': !showMore1 }" id="more-text1">
+            various modules for developing responsive web applications.
+          </span>
+        </p>
+        <button @click="toggleMore(1)" class="text-xs mt-4 text-blue-500 focus:outline-none" v-if="!showMore1">Read More</button>
+        <button @click="toggleMore(1)" class="text-xs mt-4 text-blue-500 focus:outline-none" v-if="showMore1">Hide</button>
+      </div>
+      <br/>
+      <!-- Repeat similar structure for other sections with unique IDs, methods, and data properties -->
+
+      <div class="flex justify-center items-center flex-col">
         <img class="image-center" src="../img/logos/smhi-logo-120.png" alt="smhi"  style="width: 50px; height: 20px;"> 
         <p  class="project-role text-center">Application Technician </p> 
-        <p  class="project-stack text-center text-xs">Sep 2023 to present</p>
+        <p  class="project-stack text-center text-xs">August 2023 - March 2024 </p>
         <br />
         <p class="leading-relaxed text-sm ">
           Develop responsive web applications using React.js, leveraging state management with Redux and context API 

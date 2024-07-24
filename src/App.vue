@@ -291,7 +291,7 @@ const MyComponent = {
           <img src="./img/logos/jkuat.png" alt="ReactJS Logo" class="h-[80px] w-[80px] rounded-50px">
           <br />
           <h5 class="text-xs  font-semibold ">Jomo Kenyatta University Of Agriculture And Technology</h5>
-                <p>Diploma in Infrmation Technology</p>
+                <p>Diploma in Information Technology</p>
       </div>
                 
     </div>

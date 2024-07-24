@@ -11,7 +11,7 @@
         <img src="./assets/profile.png "
           class="h-[80px] w-[80px]  rounded-[120px]  ">
         <h2 class="mt-6 mb-2 text-2xl font-semi-bold text-white whitespace-nowrap">Timothy Juma</h2>
-        <p class="text-white font-light uppercase whitespace-nowrap">Norrköping, Sweden</p>
+        <p class="text-white font-light uppercase whitespace-nowrap">Norrköping</p>
         <span class="text-[#ffff] text-sm font-semi-bold  px-5 py-1.5 rounded-lg whitespace-nowrap">Javascript Full Stack Developer</span>
 
         <!-- Social-Links -->
@@ -31,7 +31,7 @@
     <div class=" border-b  border-t border-gray-700 py-2  ">
       <div class="mt-4 mb-4 flex justify-center items-center">
         <span class="text-white text-sm leading-7 mr-7 whitespace-nowrap">Available for hire :</span>
-            <input type="checkbox" class="peer sr-only opacity-0" id="toggle" unchecked/>
+            <input type="checkbox" class="peer sr-only opacity-0" id="toggle" unchecked />
             <label for="toggle" class=" relative flex h-5 w-11 cursor-pointer items-center rounded-full bg-red-400 px-0.5 outline-gray-400 transition-colors before:h-5 before:w-5 before:rounded-full before:bg-white before:shadow before:transition-transform before:duration-300 peer-checked:bg-green-500 peer-checked:before:translate-x-full peer-focus-visible:outline peer-focus-visible:outline-offset-2 peer-focus-visible:outline-gray-400 peer-checked:peer-focus-visible:outline-green-500">
                 <span class="sr-only">Enable</span>
             </label>

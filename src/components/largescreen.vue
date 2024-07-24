@@ -381,7 +381,7 @@ import Project from '../components/projects.vue';
       <div class="grid place-items-center">
           <img src="../img/logos/jkuat.png" alt="ReactJS Logo" class="h-[80px] w-[80px] rounded-50px">
           <h5 class="text-xs  font-semibold text-center">Jomo Kenyatta University Of Agriculture And Technology</h5>
-                <p>Diploma in Infrmation Technology</p>
+                <p>Diploma in Information Technology</p>
       </div><br />
       <div class="grid place-items-center">
           <img src="../img/logos/azureAdministrator.png" alt="ReactJS Logo" class="h-[80px] w-[80px] rounded-50px">

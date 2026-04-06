@@ -83,7 +83,7 @@ const MyComponent = {
           <img src="./assets/profile.png "
             class="h-[80px] w-[80px]  rounded-[120px]  ">
           <h2 class="mt-6 mb-2 text-2xl font-semi-bold text-white whitespace-nowrap">Timothy Juma</h2>
-          <p class="text-white font-light uppercase whitespace-nowrap">Norrköping, Sweden</p>
+          <p class="text-white font-light uppercase whitespace-nowrap">Malmö, Sweden</p>
           <span class="text-[#ffff] text-sm font-semi-bold  px-5 py-1.5 rounded-lg whitespace-nowrap">Javascript Full Stack Developer</span>
 
           <!-- Social-Links -->

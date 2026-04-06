@@ -96,7 +96,7 @@
           <img src="./assets/profile.png"
             class="h-[140px] w-[140px]  rounded-[120px] top-0 object-cover ">
           <h2 class="mt-6 mb-2 text-3xl font-semi-bold text-white">Timothy Juma</h2>
-          <p class="text-white text-l font-light mb-[5px] uppercase">Norrköping, Sweden</p>
+          <p class="text-white text-l font-light mb-[5px] uppercase">Malmö, Sweden</p>
         
           <span class="mb-4 text-[#A6A6A6] inline-block px-5 py-1.5 rounded-lg bg-[#1D1D1D] ">Javascript Full-Stack Developer</span>
         </div>
@@ -229,7 +229,7 @@
           <img src="./assets/profile.png"
             class="h-[140px] w-[140px]  rounded-[120px] top-0 object-cover ">
           <h2 class="mt-6 mb-2 text-3xl font-semi-bold text-white">Timothy Juma</h2>
-          <p class="text-white text-l font-light mb-[5px] uppercase">Norrköping, Sweden</p>
+          <p class="text-white text-l font-light mb-[5px] uppercase">Malmö, Sweden</p>
         
           <span class="mb-4 text-[#A6A6A6] inline-block px-5 py-1.5 rounded-lg bg-[#1D1D1D] ">Javascript Full-Stack Developer</span>
         </div>
